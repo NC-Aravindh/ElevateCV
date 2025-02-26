@@ -1,19 +1,8 @@
-1. Authentication Pages
-✅ Login Page – (Email/password & Google OAuth login)
-✅ Signup Page – (New user registration)
-✅ Forgot Password Page – (Reset password option)
+# React + Vite
 
-2. Dashboard & Resume Management
-✅ Dashboard Page – (User profile, saved resumes, recent activity)
-✅ Create Resume Page – (Multi-step form for entering details)
-✅ Resume Templates Page – (Choose from multiple resume layouts)
-✅ Resume Preview Page – (Live preview of selected template)
-✅ AI Suggestions Page – (AI-generated improvements & recommendations)
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-3. Export & Sharing
-✅ Download Page – (Export resume as PDF/DOCX)
-✅ Public Resume Page – (Sharable link for resumes)
+Currently, two official plugins are available:
 
-4. Admin & Settings
-✅ Settings Page – (Edit user profile, change password)
-✅ Admin Dashboard (optional) – (Monitor usage, manage users)
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
